@@ -10,7 +10,6 @@ export default async function Home(){
 
 
   return (
-
     <main>
 
       <h1>
@@ -41,8 +40,6 @@ export default async function Home(){
         ))
       }
 
-
     </main>
-
   )
 }
